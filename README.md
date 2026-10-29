@@ -1,44 +1,37 @@
-# Garay PC - Landing Page
+# Garay PC
 
-## Descripción del proyecto
+Landing page de servicios de reparación, mantenimiento y optimización de computadoras.
 
-Garay PC es una landing page dedicada a presentar servicios de reparación, mantenimiento y optimización de computadoras. El objetivo es ofrecer información clara sobre los servicios y facilitar el contacto con personas que necesitan asistencia técnica para sus equipos.
+## Requisitos
 
-## Servicios presentados
+- Node.js
+- NPM
 
-- Reparación de computadoras.
-- Mantenimiento y optimización de equipos.
-- Instalación de software.
-- Asesoramiento técnico.
+## Instalación y ejecución
 
-## Tecnologías utilizadas
+1. Clonar o descargar el repositorio.
+2. Abrir una terminal en la carpeta del proyecto.
+3. Instalar las dependencias:
 
-- HTML5: estructura y contenido de la página.
-- CSS3: diseño y estilos visuales.
-- Git: control de versiones.
-- GitHub: alojamiento del repositorio y publicación mediante GitHub Pages.
+   ```bash
+   npm install
+   ```
 
-## Origen de la plantilla
+4. Iniciar el servidor:
 
-El proyecto se basa en la plantilla gratuita **Align**, del repositorio de plantillas de Uisual.
+   ```bash
+   node server.js
+   ```
 
-Repositorio original: https://github.com/uisual/freebies
+5. Abrir http://localhost:3000 en el navegador.
 
-La plantilla original se utilizó como punto de partida y se modificó para adaptarla a la presentación de los servicios de Garay PC.
+## Tecnologías
 
-## Cómo ejecutar el proyecto localmente
-
-1. Descargar o clonar el repositorio.
-2. Abrir la carpeta del proyecto.
-3. Abrir el archivo `index.html` en un navegador web.
-
-No es necesario instalar dependencias para visualizar la página básica.
-
-## Publicación
-
-El sitio se publica mediante GitHub Pages y se puede visitar en:
-
-https://valentinogaray432-web.github.io/Garay-PC/
+- HTML5 y CSS3
+- Node.js y Express
+- Bootstrap
+- Font Awesome
+- SweetAlert2
 
 ## Autor
 
