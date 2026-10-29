@@ -1,0 +1,32 @@
+{
+  "name": "garay-pc",
+  "version": "1.0.0",
+  "description": "Sitio web de servicios informaticos Garay PC",
+  "keywords": [
+    "garay",
+    "pc",
+    "reparacion",
+    "servicios"
+  ],
+  "homepage": "https://github.com/valentinogaray432-web/Garay-PC#readme",
+  "bugs": {
+    "url": "https://github.com/valentinogaray432-web/Garay-PC/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valentinogaray432-web/Garay-PC.git"
+  },
+  "license": "ISC",
+  "author": "Valentino Garay",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.3.1",
+    "bootstrap": "^5.3.8",
+    "express": "^5.3.0",
+    "sweetalert2": "^11.26.25"
+  }
+}
